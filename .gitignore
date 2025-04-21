@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code or IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+*.swp
